@@ -1,1 +1,19 @@
+#Project Name
+MOVIE_RATINGS_ANALYSIS
+
+Overview
+In this project i have analysis all the movies accroding to their ratings and directors and gain others insights also 
+
+Objectives
+To gain the insights from the dataset and to tracks all the kpi's also 
+
+Dataset
+Dataset is in the csv file format which i got from kaggle.com
+
+Tools & Technologies
+Python, Pandas, Matplotlib, etc.
+
+Exploratory Data Analysis
+I have analysis all the movies ratings , director who have directed the most of the movies and other insights also
+
 
